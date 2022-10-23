@@ -1,0 +1,77 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+.header p{
+    font-size: 24px;
+    font: #F9FAF8
+}
+
+.header a{
+    font-size: 18px;
+    font: #E5E7EB;
+}
+
+.hero{
+    background-color: #1F2937;
+}
+
+.hero_text h1{
+    font-size: 48px;
+    font-weight: 800;
+    font: #F9FAF8;
+}
+
+.hero_text p{
+    font-size: 18px;
+    font: #E5E7EB;
+}
+
+.cards h2{
+    font-size: 36px;
+    font-weight: 800;
+    font: #1F2937;
+}
+
+
+.card
+
+.quote{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: light italic;
+    font: #1F2937
+}
+
+.CTA
+
+
+.inset{
+    background-color: #3882F6;
+}
+.inset_text h3{
+    font-size: 24px;
+    font: #F9FAF8
+}
+
+.inset_text p{
+    font-size: 18px;
+    font: #E5E7EB;
+}
+
+.footer{
+    font-size: 18px;
+    font: #E5E7EB;
+}
+
+
+
+button{
+    background-color: #3882F6;
+}
